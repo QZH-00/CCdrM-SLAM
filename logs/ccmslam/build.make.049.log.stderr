@@ -1,0 +1,6 @@
+CMakeFiles/ccmslamClientNode.dir/src/client/ClientSystem.cpp.o:(.bss+0x0): `cslam::mpDetector'被多次定义
+CMakeFiles/ccmslamClientNode.dir/src/client/ClientNode.cpp.o:(.bss+0x0)：第一次在此定义
+collect2: error: ld returned 1 exit status
+make[2]: *** [/home/qizh/ccmslam_ws/devel/.private/ccmslam/lib/ccmslam/ccmslamClientNode] Error 1
+make[1]: *** [CMakeFiles/ccmslamClientNode.dir/all] Error 2
+make: *** [all] Error 2

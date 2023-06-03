@@ -1,0 +1,6 @@
+devel_space: /home/qizh/ccmslam_ws/devel
+install: false
+install_space: /home/qizh/ccmslam_ws/install
+profile: default
+source_space: /home/qizh/ccmslam_ws/src
+workspace: /home/qizh/ccmslam_ws

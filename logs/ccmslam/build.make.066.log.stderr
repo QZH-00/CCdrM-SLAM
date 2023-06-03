@@ -1,0 +1,8 @@
+[01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/src/Detect.cpp:[m[K In member function ‘[01m[Kbool YOLO::Detect()[m[K’:
+[01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/src/Detect.cpp:39:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[Kcv[m[K’
+     [01;31m[Kcv[m[K::resize(mRGB, img, cv::Size(640, 384));
+     [01;31m[K^~[m[K
+compilation terminated due to -Wfatal-errors.
+make[2]: *** [CMakeFiles/ccmslam_lib.dir/src/Detect.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ccmslam_lib.dir/all] Error 2
+make: *** [all] Error 2

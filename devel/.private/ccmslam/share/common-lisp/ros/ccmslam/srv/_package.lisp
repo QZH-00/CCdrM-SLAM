@@ -1,0 +1,10 @@
+(cl:defpackage ccmslam-srv
+  (:use )
+  (:export
+   "SERVICESAVEMAP"
+   "<SERVICESAVEMAP-REQUEST>"
+   "SERVICESAVEMAP-REQUEST"
+   "<SERVICESAVEMAP-RESPONSE>"
+   "SERVICESAVEMAP-RESPONSE"
+  ))
+

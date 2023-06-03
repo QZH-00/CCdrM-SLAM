@@ -1,0 +1,15 @@
+In file included from [01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/src/client/ClientNode.cpp:26:0[m[K:
+[01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/include/cslam/client/ClientSystem.h:49:10:[m[K [01;31m[Kfatal error: [m[Kclsam/Detect.h: 没有那个文件或目录
+ #include [01;31m[K<clsam/Detect.h>[m[K
+          [01;31m[K^~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/ccmslamClientNode.dir/src/client/ClientNode.cpp.o] Error 1
+make[2]: *** 正在等待未完成的任务....
+In file included from [01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/src/client/ClientSystem.cpp:25:0[m[K:
+[01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/include/cslam/client/ClientSystem.h:49:10:[m[K [01;31m[Kfatal error: [m[Kclsam/Detect.h: 没有那个文件或目录
+ #include [01;31m[K<clsam/Detect.h>[m[K
+          [01;31m[K^~~~~~~~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/ccmslamClientNode.dir/src/client/ClientSystem.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ccmslamClientNode.dir/all] Error 2
+make: *** [all] Error 2

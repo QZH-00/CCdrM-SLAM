@@ -1,0 +1,8 @@
+prefix=/home/qizh/ccmslam_ws/devel/.private/ccmslam_msgs
+
+Name: ccmslam_msgs
+Description: Description of ccmslam_msgs
+Version: 1.0.0
+Cflags: -I/home/qizh/ccmslam_ws/devel/.private/ccmslam_msgs/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

@@ -1,0 +1,14 @@
+In file included from [01m[K/home/qizh/libtorch/include/ATen/Tensor.h:3:0[m[K,
+                 from [01m[K/home/qizh/libtorch/include/ATen/Context.h:4[m[K,
+                 from [01m[K/home/qizh/libtorch/include/ATen/ATen.h:9[m[K,
+                 from [01m[K/home/qizh/libtorch/include/torch/csrc/api/include/torch/types.h:3[m[K,
+                 from [01m[K/home/qizh/libtorch/include/torch/script.h:3[m[K,
+                 from [01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/include/cslam/Detect.h:5[m[K,
+                 from [01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/src/Detect.cpp:1[m[K:
+[01m[K/home/qizh/libtorch/include/ATen/core/TensorBody.h:937:31:[m[K [01;31m[Kerror: [m[K‘[01m[KList[m[K’ in namespace ‘[01m[Kc10[m[K’ does not name a template type
+   at::Tensor index(const c10::[01;31m[KList[m[K<c10::optional<at::Tensor>> & indices) const;
+                               [01;31m[K^~~~[m[K
+compilation terminated due to -Wfatal-errors.
+make[2]: *** [CMakeFiles/ccmslam_lib.dir/src/Detect.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ccmslam_lib.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,11 @@
+In file included from [01m[K/home/qizh/libtorch/include/torch/csrc/api/include/torch/types.h:3:0[m[K,
+                 from [01m[K/home/qizh/libtorch/include/torch/script.h:3[m[K,
+                 from [01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/include/cslam/Detect.h:5[m[K,
+                 from [01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/src/Detect.cpp:1[m[K:
+[01m[K/home/qizh/libtorch/include/ATen/ATen.h:4:2:[m[K [01;31m[Kerror: [m[K#error C++14 or later compatible compiler is required to use ATen.
+ #[01;31m[Kerror[m[K C++14 or later compatible compiler is required to use ATen.
+  [01;31m[K^~~~~[m[K
+compilation terminated due to -Wfatal-errors.
+make[2]: *** [CMakeFiles/ccmslam_lib.dir/src/Detect.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ccmslam_lib.dir/all] Error 2
+make: *** [all] Error 2

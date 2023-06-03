@@ -1,0 +1,8 @@
+prefix=/home/qizh/ccmslam_ws/install
+
+Name: ccmslam
+Description: Description of ccmslam
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lccmslam_lib
+Requires: ccmslam_msgs

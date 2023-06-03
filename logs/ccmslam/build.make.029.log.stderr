@@ -1,0 +1,7 @@
+[01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/src/Detect.cpp:1:10:[m[K [01;31m[Kfatal error: [m[KDetect.h: 没有那个文件或目录
+ #include [01;31m[K<Detect.h>[m[K
+          [01;31m[K^~~~~~~~~~[m[K
+compilation terminated.
+make[2]: *** [CMakeFiles/ccmslam_lib.dir/src/Detect.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ccmslam_lib.dir/all] Error 2
+make: *** [all] Error 2

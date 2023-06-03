@@ -1,0 +1,8 @@
+In file included from [01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/src/Detect.cpp:1:0[m[K:
+[01m[K/home/qizh/ccmslam_ws/src/ccm_slam/cslam/include/cslam/Detect.h:31:5:[m[K [01;31m[Kerror: [m[K‘[01m[KDetection[m[K’ does not name a type
+     [01;31m[KDetection[m[K res;
+     [01;31m[K^~~~~~~~~[m[K
+compilation terminated due to -Wfatal-errors.
+make[2]: *** [CMakeFiles/ccmslam_lib.dir/src/Detect.cpp.o] Error 1
+make[1]: *** [CMakeFiles/ccmslam_lib.dir/all] Error 2
+make: *** [all] Error 2
